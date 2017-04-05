@@ -1,0 +1,19 @@
+[
+{"property":"nastaveni.www", "propertyName":"WWW","propertyNameA":"WWW", "propertyNameB":"WWW", "propertyNameC":"WWW"},
+{"property":"nastaveni.email", "propertyName":"E-mail","propertyNameA":"E-mail", "propertyNameB":"E-mail", "propertyNameC":"E-mail"},
+{"property":"nastaveni.tel", "propertyName":"Telefon","propertyNameA":"Phone", "propertyNameB":"Telefon", "propertyNameC":"Telefón"},
+{"property":"nastaveni.mobil", "propertyName":"Mobil","propertyNameA":"Cell", "propertyNameB":"Handy", "propertyNameC":"Mobil"}
+]
+;
+[
+{"property":"cisSml", "propertyName":"Číslo smlouvy","propertyNameA":"Contract #", "propertyNameB":"Kontraktnummer", "propertyNameC":"Číslo zmluvy"},
+{"property":"zakazka", "propertyName":"Zakázka","propertyNameA":"Commission", "propertyNameB":"Auftrag", "propertyNameC":"Zákazka"},
+{"property":"cisObj", "propertyName":"Číslo objednávky","propertyNameA":"Order #", "propertyNameB":"Bestellnummer", "propertyNameC":"Číslo objednávky"},
+{"property":"kontaktJmeno", "propertyName":"Kontaktní osoba","propertyNameA":"Contact", "propertyNameB":"Kontakt", "propertyNameC":"Kontaktná osoba"}
+]
+;
+[
+{"property":"kod", "propertyName":"Kód","propertyNameA":"Code", "propertyNameB":"Code", "propertyNameC":"Kód"},
+{"property":"vyrobniCislaVydana", "propertyName":"Výrobní čísla","propertyNameA":"Serial numbers", "propertyNameB":"Seriennummern", "propertyNameC":"Výrobné čísla"},
+{"property":"poznam", "propertyName":"\nPoznámka","propertyNameA":"\nNote", "propertyNameB":"\nBemerkung", "propertyNameC":"\nPoznámka"}
+]
