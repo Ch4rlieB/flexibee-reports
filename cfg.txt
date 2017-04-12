@@ -1,4 +1,6 @@
 [
+{"property":"bspBan.iban", "propertyName":"IBAN","propertyNameA":"IBAN", "propertyNameB":"IBAN", "propertyNameC":"IBAN"},
+{"property":"bspBan.bic", "propertyName":"SWIFT","propertyNameA":"SWIFT", "propertyNameB":"SWIFT", "propertyNameC":"SWIFT"},
 {"property":"nastaveni.www", "propertyName":"WWW","propertyNameA":"WWW", "propertyNameB":"WWW", "propertyNameC":"WWW"},
 {"property":"nastaveni.email", "propertyName":"E-mail","propertyNameA":"E-mail", "propertyNameB":"E-mail", "propertyNameC":"E-mail"},
 {"property":"nastaveni.tel", "propertyName":"Telefon","propertyNameA":"Phone", "propertyNameB":"Telefon", "propertyNameC":"Telefón"},
@@ -13,7 +15,8 @@
 ]
 ;
 [
-{"property":"kod", "propertyName":"Kód","propertyNameA":"Code", "propertyNameB":"Code", "propertyNameC":"Kód"},
-{"property":"vyrobniCislaVydana", "propertyName":"Výrobní čísla","propertyNameA":"Serial numbers", "propertyNameB":"Seriennummern", "propertyNameC":"Výrobné čísla"},
-{"property":"poznam", "propertyName":"\nPoznámka","propertyNameA":"\nNote", "propertyNameB":"\nBemerkung", "propertyNameC":"\nPoznámka"}
+{"property":"kod", "propertyName":"Kód: ","propertyNameA":"Code: ", "propertyNameB":"Code: ", "propertyNameC":"Kód: "},
+{"property":"vyrobniCislaVydana", "propertyName":"Výrobní čísla: ","propertyNameA":"Serial numbers: ", "propertyNameB":"Seriennummern: ", "propertyNameC":"Výrobné čísla: "},
+{"property":"cenik.zaruka", "propertyName":"Záruka[měsíc]: ","propertyNameA":"Warranty[month]: ", "propertyNameB":"Garantie[Monat]: ", "propertyNameC":"Záruka[mesiac]: "},
+{"property":"poznam", "propertyName":"\nPoznámka: ","propertyNameA":"\nNote: ", "propertyNameB":"\nBemerkung: ", "propertyNameC":"\nPoznámka: "}
 ]
