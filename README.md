@@ -2,8 +2,7 @@
 Tiskové sestavy pro FlexiBee
 
 <a href="https://charlieblog.eu/clanek-modre-tiskopisy-pro-abra-flexibee">Domovská stránka projektu</a>
-
-Current version is on GitLab https://gitlab.com/Ch4rlieB/flexibee-reports
+Aktuální repozitář je na GitLabu https://gitlab.com/Ch4rlieB/flexibee-reports
 
 <h2>Tisková sestava vydané faktury</h2>
 <img src="https://charlieblog.eu/clanky/flexibee_blue_tiskopisy/faktura-blue-cz.png" />
